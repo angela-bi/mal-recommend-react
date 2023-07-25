@@ -9,5 +9,7 @@ In another terminal, run `node cors-anywhere.js`. You should see `Running CORS A
 2. Click “find my friends”
 3. Click on any friend’s pfp to get their top rated anime!
 
+![](https://github.com/angela-bi/mal-recommend-react/media/mal-demo.gif)
+
 ## React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
