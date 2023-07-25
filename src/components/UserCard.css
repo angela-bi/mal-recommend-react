@@ -1,0 +1,33 @@
+.user-card {
+    width: 350px;
+    margin: 10px;
+    background-color: rgb(114, 114, 96);
+    border-radius: 10px;
+    color: beige;
+    align-items: center;
+}
+
+.user-card-info {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.profile-img {
+    border-radius: 10px;
+}
+
+.username-link {
+    font-size: 30px;
+}
+
+.user-card-anime-list {
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+  }
